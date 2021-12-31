@@ -20,3 +20,6 @@ b) Ahora habrá que llenar dos datos, y crearlo como Public:
 Nombre del repositorio Descripción del repositorio (opcional)
 
 ¡Listo! Repositorio creado, ahora lo vas a poder ver en tu perfil.
+
+
+Modificando el archivo en la interfaz web GITHUB
